@@ -14,6 +14,7 @@ Errors are considered as bad things. They are underlined with red.
 ## Creativity and flow
 We need confidence to create, if a computer is breaking it down any time we do something wrong, how to keep up?
 Creative coding vs painting? 
+Mihály Csíkszentmihályi: Flow?
 
 ## Psychology of errors
 How to deal with problems? 
